@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    color:blue#0000ff;
+}
+h2 {
+  color: #ffffff !important;
+  text-align: center;
+}
+
+#pagetitle{
+  background-color: tomato;
+}
